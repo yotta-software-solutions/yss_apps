@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template>
+    <t t-name="UserLoginButton">
+        <li class="oe_attendance_status" data-toggle="tooltip">
+            <a href="#" class="easy_sign_in_out">
+                <i id="easy_sign_in_out_icon"
+                    class="fa fa-sign-in"/>
+            </a>
+        </li>
+    </t>
+</template>

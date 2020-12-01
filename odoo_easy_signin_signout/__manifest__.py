@@ -41,7 +41,9 @@
     "qweb": [
         'static/src/xml/*.xml',
     ],
-    'images': [],
+    'images': [
+        'static/description/images/odoo_easy_signin_signout_banner.png',
+    ],
     'sequence': 1,
     'license': 'AGPL-3',
     'installable': True,

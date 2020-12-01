@@ -45,7 +45,7 @@
         'static/description/images/odoo_easy_signin_signout_banner.png',
     ],
     'sequence': 1,
-    'license': 'AGPL-3',
+    'license': 'OPL-1',
     'installable': True,
     'auto_install': False,
     'application': False,

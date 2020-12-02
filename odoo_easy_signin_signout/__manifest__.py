@@ -20,7 +20,7 @@
 ###################################################################################
 {
     'name': 'Odoo Easy Signin Signout',
-    'version': '14.0.1.0.0',
+    'version': '13.0.1.0.0',
     'summary': 'Allow user to login logout easily',
     'description': """
         Allow user to login logout easily without going in attendance.

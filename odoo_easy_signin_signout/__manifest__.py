@@ -30,7 +30,7 @@
     'company': 'Yotta Software Solutions',
     'maintainer': 'Yotta Software Solutions',
     'website': "https://yottasoftwaresolution.com/",
-    'price': '10',
+    'price': '5',
     "currency": 'EUR',
     'depends': [
        'hr_attendance',
